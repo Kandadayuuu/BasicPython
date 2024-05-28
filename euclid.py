@@ -38,3 +38,4 @@ if a<=b:
     while a!=0:
         b, a = a, b % a
     print(f"最大公約数: {b}")
+    
